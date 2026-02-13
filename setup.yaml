@@ -1,0 +1,9 @@
+name: video_tracker
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - opencv
+  - numpy
+  - pip
