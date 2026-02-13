@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.venv
+# Si el video es muy pesado ( >100MB), GitHub no te dejará subirlo sin LFS.
+# video.mp4
